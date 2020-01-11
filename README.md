@@ -5,4 +5,4 @@ https://github.com/KittenswithWeapons/KittenKungPow
 
 
 It will no longer recieve updates but can still be viewed here:
-http://brennaandlogan.com/491Animation/
+http://lrjenny.github.io/491Animation/
